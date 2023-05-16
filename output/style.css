@@ -1,4 +1,4 @@
-#header-section{
+.jumbotron{
     background-color: rgba(80, 136, 136, 0.753) ;
 }
 .card-header{
@@ -9,7 +9,7 @@ h1, h2, h3{
     color: white;
 }
 
-h2{
+h2, h3{
     text-align: center;
 }
 
