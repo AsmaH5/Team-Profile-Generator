@@ -1,0 +1,19 @@
+#header-section{
+    background-color: rgba(80, 136, 136, 0.753) ;
+}
+.card-header{
+    background-color: rgba(80, 136, 136, 0.753);
+}   
+
+h1, h2, h3{
+    color: white;
+}
+
+h2{
+    text-align: center;
+}
+
+.card{
+    margin: 10px;
+    margin-top: 20px;
+}
