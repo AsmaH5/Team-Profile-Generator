@@ -11,7 +11,7 @@ This application will take in information about employees on a software engineer
 
 ## Usage:
 Use inquirer from your terminal to add employees and their information:
-
+![Screenshot1](https://github.com/AsmaH5/Team-Profile-Generator/assets/97250633/cefd971c-6930-41fc-9d17-a060f368d6cb)
 ## Tests:
 Run npm test to run Jest testing on constructors.
 
