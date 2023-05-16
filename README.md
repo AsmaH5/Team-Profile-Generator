@@ -15,8 +15,6 @@ Use inquirer from your terminal to add employees and their information:
 ## Tests:
 Run npm test to run Jest testing on constructors.
 
-## Project Link:
-
 ## Acknowledgments
 * [W3 schools](https://www.w3schools.com)
 * [Mdn Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
